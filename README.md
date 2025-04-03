@@ -26,7 +26,7 @@ Este projeto em Go realiza consultas simultâneas a duas APIs diferentes de CEP 
 1. Instale o Go (caso ainda não tenha instalado): [https://go.dev/dl/](https://go.dev/dl/)
 2. Clone este repositório:
    ```sh
-   git clone [https://github.com/seu-repositorio.git](https://github.com/AvelinoRSN/desafio-Multithreading.git)
+   git clone (https://github.com/AvelinoRSN/desafio-Multithreading.git)
    ```
 3. Navegue até o diretório do projeto:
    ```sh
